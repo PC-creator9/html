@@ -1,5 +1,7 @@
 # md files
 *.md
+
+*.cl
 # Compiled class file
 *.class
 
